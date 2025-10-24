@@ -1,7 +1,7 @@
 # 📊 AdventureWorks Sales Dashboard
 ## 🖼️ Dashboard Preview
 
-![AdventureWorks Sales Dashboard](Dashboard.png)
+![AdventureWorks Sales Dashboard](Dashboord.png)
 
 ## 🧭 Project Overview
 This project analyzes **AdventureWorks sales data** to gain insights into sales performance, customer behavior, and payment preferences.  
